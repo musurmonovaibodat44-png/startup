@@ -1,0 +1,46 @@
+.content{
+    margin: 10px;
+    border: 1px solid black;
+    padding: 5px;
+    gap: 20px;
+    flex-wrap: wrap;
+    justify-content: center;
+    border-radius: 15px;
+    width: 1450px;
+}
+.content pre{
+    color: aliceblue;
+}
+ .container {
+            border: 1px solid black;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 30px 20px;
+            height: 50vh;
+            
+            justify-content: center;
+            align-items: center;
+        }
+
+        .box {
+            width: 200px;
+            height: 200px;
+            border: 1px solid black;
+            border-radius: 20px;
+            background-color: blue;
+            color: aliceblue;
+            text-align: center;
+        }
+        .boxs
+        {
+             width: 200px;
+            height: 200px;
+            border: 1px solid black;
+            border-radius: 20px;
+            background-color: blue;
+           
+            text-align: center;
+        }
+        .boxs h3{
+ color: aliceblue;
+        }
